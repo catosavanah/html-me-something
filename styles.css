@@ -1,0 +1,9 @@
+body {
+    background-color: maroon;
+}
+
+p {
+    margin-top: 80px;
+    font-size: 24px;
+    padding: 10px;
+}
